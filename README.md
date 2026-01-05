@@ -1,16 +1,35 @@
-## Hi there 👋
+# GitHub个人主页（直接复制替换{}内容）
+<h1 align="center">Hi 👋, I'm Security-AI-Ding</h1>
+<h3 align="center">AI+安全领域跨岗位求职者 | 聚焦AI产品/海内外解决方案销售/管培生</h3>
 
-<!--
-**Security-AI-Ding/Security-AI-Ding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 关于我
+专注于AI+安全赛道的跨岗位发展，擅长将技术逻辑转化为业务落地成果，核心能力覆盖产品设计、商业价值量化、数据驱动决策，适配多岗位需求。3个实战仓库直接对应岗位核心能力，可快速验证适配性。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 核心能力（岗位适配导向）
+- 产品思维：能将AI技术转化为落地产品方案，具备需求挖掘、PRD撰写、迭代闭环能力（对应ai-security-product仓库）
+- 商业价值量化：拆解海内外客户需求，用数据测算方案ROI，适配跨区域销售场景（对应security-sales-roi仓库）
+- 数据落地能力：通过SQL/Python解决实际业务问题（如漏洞统计、风险分级），支撑运营决策与管培生轮岗需求（对应security-data-analysis仓库）
+- 跨部门协作：衔接技术团队与客户/业务端，具备海内外业务沟通与方案呈现能力
+
+### 📁 核心项目仓库（岗位能力证明）
+1. **security-data-analysis**  
+   包含漏洞统计、风险分级的SQL/Python脚本，用数据解决实际业务问题，适配产品/运营/管培生的数据分析需求
+2. **ai-security-product**  
+   含AI安全漏洞分类工具的需求文档与演示逻辑，体现产品从0到1的设计思维，适配AI产品经理岗位
+3. **security-sales-roi**  
+   销售方案测算模型与客户价值分析数据，量化方案商业价值，适配海内外解决方案销售场景
+
+### 🎯 求职方向
+- 核心目标：AI产品经理（AI原生产品/功能增强型产品）、解决方案销售（海内外）、管培生项目
+- 次要方向：风控运营、产品运营、战略运营
+- 适配优势：1. 懂AI+安全行业逻辑，无需额外行业培训；2. 仓库可直接佐证岗位核心能力，而非空泛描述；3. 具备海内外业务适配意识，可快速衔接跨区域工作
+
+### 📫 联系方式
+- 语雀：Security-AI-Ding（已公开AI产品PRD/销售解决方案）
+- 邮箱：dingwenhan_zzu@outlook.com
+- 简历：待补充（后续更新Notion在线版，当前可提供PDF版，联系邮箱获取）
+- Linktree：待完善（暂含GitHub/语雀链接，链接：linktr.ee/Security-AI-Ding）
+
+---
