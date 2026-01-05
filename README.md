@@ -1,4 +1,4 @@
-# GitHub个人主页（直接复制替换{}内容）
+# GitHub个人主页
 <h1 align="center">Hi 👋, I'm Security-AI-Ding</h1>
 <h3 align="center">AI+安全领域跨岗位求职者 | 聚焦AI产品/海内外解决方案销售/管培生</h3>
 
